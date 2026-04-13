@@ -1,2 +1,3 @@
-# PhotoCopy-CashierAPP
-A lightweight, Python-based desktop POS system tailored for retail and photocopy business, featuring ESC/POS thermal printing and automated Excel reporting.
+PhotoCopy-CashierAPP is a fully functional, desktop-based Point of Sale (POS) application built with Python and PyQt5. Designed to streamline daily retail operations, it provides a seamless user interface for managing fast-paced transactions, inputting product data, and generating comprehensive financial reports.
+
+Engineered with a local SQLite database for secure, offline data management, the application also features direct hardware integration for ESC/POS thermal receipt printers via USB. Additionally, it utilizes the Pandas library to automate financial reporting, allowing users to export transaction histories directly into Excel-ready .xlsx formats. The entire system is optimized and packaged as a standalone, portable Windows executable for effortless, plug-and-play deployment.
